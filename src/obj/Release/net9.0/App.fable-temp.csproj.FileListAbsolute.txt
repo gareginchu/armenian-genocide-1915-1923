@@ -1,0 +1,4 @@
+C:\Users\gareg\OneDrive\Desktop\armenian-genocide-1915-1923\src\bin\Release\net9.0\App.fable-temp.deps.json
+C:\Users\gareg\OneDrive\Desktop\armenian-genocide-1915-1923\src\obj\Release\net9.0\App.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gareg\OneDrive\Desktop\armenian-genocide-1915-1923\src\obj\Release\net9.0\App.fable-temp.AssemblyInfoInputs.cache
+C:\Users\gareg\OneDrive\Desktop\armenian-genocide-1915-1923\src\obj\Release\net9.0\App.fable-temp.AssemblyInfo.cs

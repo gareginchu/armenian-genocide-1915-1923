@@ -1,0 +1,24 @@
+{
+  "name": "armenian-genocide-archive",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Armenian Genocide 1915-1923 — digital archive, ingested from the 2005 ITE Genocide CD-ROM.",
+  "scripts": {
+    "start": "dotnet fable watch src -o output --run vite",
+    "build": "node scripts/build-search-index.mjs && dotnet fable src -o output && vite build",
+    "build:content": "node scripts/build-content.mjs",
+    "preview": "vite preview",
+    "clean": "rimraf output dist"
+  },
+  "dependencies": {
+    "openseadragon": "^4.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "wavesurfer.js": "^7.10.1"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.10",
+    "vite": "^5.4.11"
+  }
+}
